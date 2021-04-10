@@ -1,0 +1,52 @@
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.exe
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.deps.json
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.json
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.dev.json
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfo.cs
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.genruntimeconfig.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.exe
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.deps.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.dev.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\bin\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfo.cs
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\Actividades\actRetos\actRetos\obj\Debug\netcoreapp3.1\actRetos.genruntimeconfig.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.exe
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.deps.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.dev.json
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfo.cs
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\Sena daniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.genruntimeconfig.cache
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.exe
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.deps.json
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.json
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.runtimeconfig.dev.json
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\bin\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.csprojAssemblyReference.cache
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfoInputs.cache
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.AssemblyInfo.cs
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.csproj.CoreCompileInputs.cache
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.dll
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.pdb
+C:\Users\triba\Desktop\SenaDaniel\Trimestre2\Programacion\ActMarco\actRetos\obj\Debug\netcoreapp3.1\actRetos.genruntimeconfig.cache
